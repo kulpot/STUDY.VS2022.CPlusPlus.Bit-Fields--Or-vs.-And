@@ -293,6 +293,19 @@ doit proc			; proc -- procedure
 
 	; 6   000000	binary state total of 64 in 6 digit (2^6=64)
 
+	; ------------------------------------- Bit Fields- Or vs. And --------------------------------------------
+	; ref link:https://www.youtube.com/watch?v=7TxOzaZ8954&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=20
+
+
+
+
+
+
+
+
+
+
+
 
 
 
