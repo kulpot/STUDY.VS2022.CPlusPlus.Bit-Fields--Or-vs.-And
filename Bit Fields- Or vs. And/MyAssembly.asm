@@ -296,6 +296,21 @@ doit proc			; proc -- procedure
 	; ------------------------------------- Bit Fields- Or vs. And --------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=7TxOzaZ8954&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=20
 
+	; Or
+
+	;    1 0 1 0  
+	; or 0 1 1 0  
+	;  ------------
+	;    1 1 1 0  
+	
+	; And
+
+	;     1 0 1 0  
+	; and 0 1 1 0  
+	;   ------------
+	;     0 0 1 0  
+
+
 
 
 
